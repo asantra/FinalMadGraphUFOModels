@@ -1,4 +1,4 @@
 import model mono_spinzero_beta
-generate p p > mm+ mm-
+generate a a > mm+ mm-
 output Pre5
 
